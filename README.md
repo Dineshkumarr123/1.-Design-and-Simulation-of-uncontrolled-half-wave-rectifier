@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-08-30 at 11 48 17_c2d65e42](https://github.com/user-attachments/assets/26770a7f-07e0-4a46-936f-7d7bfa175eb5)# 1.-Design-and-Simulation-of-uncontrolled-half-wave-rectifier
+# 1.-Design-and-Simulation-of-uncontrolled-half-wave-rectifier
 ## AIM
 To design and simulate Half wave rectifier (Uncontrolled) in MATLAB Simulink.
 ## APPARATUS REQUIRED
