@@ -53,9 +53,19 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 <img width="940" height="349" alt="image" src="https://github.com/user-attachments/assets/b2bb32b7-4bbf-4398-a2eb-a14853f5205a" />
 ## Simulation
 
+![WhatsApp Image 2025-08-30 at 11 48 17_05324791](https://github.com/user-attachments/assets/bc207a61-88b6-494b-99b5-3d1592599a65)
+
+
 ## Output
 
+![WhatsApp Image 2025-08-30 at 11 46 51_dd366470](https://github.com/user-attachments/assets/916042d6-9b55-420e-9d88-ef54a90a311d)
+
+
 ## Result
+
+Thus the uncontrolled half wave rectifier is designed and simulated.
+
+
 
 
 
